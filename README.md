@@ -10,9 +10,8 @@ Example: You have a written program in Python, which collects data from a GUI. T
 
 Source Code Example:
 
-Input: CSV-files with corporate sales data
-
-Output: SQL Server Database with entries out of the CSV-files
+Input: CSV-files with corporate sales data  
+Output: SQL Server Database with entries out of the CSV-files  
 
 Documentation:
 http://docs.sqlalchemy.org/en/latest/orm/
