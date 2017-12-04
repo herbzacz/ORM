@@ -1,8 +1,11 @@
 # ORM in Python
 
 Object-relational mapping (ORM) in Python with the package "sqlalchemy"
+
 WHY?
+
 Programming languages like Python storage data in objects. On the other side relational databases put data in a specific schema to retrieve information with DML-Queries.
+
 Example: You have a written program in Python, which collects data from a GUI. This data can be transferred to a database with an ORM Mapper.
 
 Input: CSV-files with corporate sales data
