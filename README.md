@@ -1,6 +1,7 @@
 ## ORM in Python
 
 Object-relational mapping (ORM) in Python with the package "sqlalchemy"
+!(http://www.entityframeworktutorial.net/Images/ORM.png)
 
 **WHY?**
 
